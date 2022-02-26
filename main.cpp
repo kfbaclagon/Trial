@@ -35,6 +35,7 @@ void kingsman(){
 void lyrics(){
 	
 	cout << "don't freak out, we're only twenty something" << endl;
+	cout << " do you get deja vu ohhh~ " << endl;
 	
 }
 
