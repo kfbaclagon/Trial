@@ -6,6 +6,7 @@ void tine();
 void kingsman();
 void aila();
 void quote();
+void lyrics();
 
 int main(){
     cout<< "Hello World"<<endl;
@@ -13,6 +14,7 @@ int main(){
     kingsman();
     aila();
     quote();
+    lyrics();
  
     return 0;
 }
@@ -27,6 +29,12 @@ void tine(){
 void kingsman(){
 	
 	cout << "Manners Maketh Man" << endl;
+	
+}
+
+void lyrics(){
+	
+	cout << "don't freak out, we're only twenty something" << endl;
 	
 }
 
