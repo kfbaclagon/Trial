@@ -4,11 +4,13 @@ using namespace std;
 
 void tine();
 void kingsman();
+void aila();
 
 int main(){
     cout<< "Hello World"<<endl;
     tine();
     kingsman();
+    aila();
  
     return 0;
 }
@@ -23,6 +25,12 @@ void tine(){
 void kingsman(){
 	
 	cout << "Manners Maketh Man" << endl;
+	
+}
+
+void aila(){
+	cout << "aje" << endl;
+	cout << "aila jera" << endl;
 	
 }
 
