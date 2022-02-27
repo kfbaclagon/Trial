@@ -6,6 +6,7 @@ void tine();
 void kingsman();
 void aila();
 void quote();
+void balala();
 void lyrics();
 void ganda();
 
@@ -15,6 +16,7 @@ int main(){
     kingsman();
     aila();
     quote();
+    balala();
     lyrics();
     ganda();
  
@@ -48,6 +50,11 @@ void aila(){
 	
 }
 
+
+void balala(){
+	cout << "cute" << endl;
+	cout << "ni mark balala" << endl;
+}
 void ganda(){
 	
 	cout << "maganda si aje" << endl;
