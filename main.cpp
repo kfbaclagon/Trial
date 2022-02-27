@@ -7,6 +7,7 @@ void kingsman();
 void aila();
 void quote();
 void lyrics();
+void ganda();
 
 int main(){
     cout<< "Hello World"<<endl;
@@ -15,6 +16,7 @@ int main(){
     aila();
     quote();
     lyrics();
+    ganda();
  
     return 0;
 }
@@ -44,6 +46,11 @@ void aila(){
 	cout << "aila jera" << endl;
 	cout << "evangelista" << endl;
 	
+}
+
+void ganda(){
+	
+	cout << "maganda si aje" << endl;
 }
 
 void quote(){
