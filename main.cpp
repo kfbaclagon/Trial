@@ -8,6 +8,7 @@ void aila();
 void quote();
 void balala();
 void lyrics();
+void ganda();
 
 int main(){
     cout<< "Hello World"<<endl;
@@ -17,6 +18,7 @@ int main(){
     quote();
     balala();
     lyrics();
+    ganda();
  
     return 0;
 }
@@ -48,9 +50,14 @@ void aila(){
 	
 }
 
+
 void balala(){
 	cout << "cute" << endl;
 	cout << "ni mark balala" << endl;
+}
+void ganda(){
+	
+	cout << "maganda si aje" << endl;
 }
 
 void quote(){
