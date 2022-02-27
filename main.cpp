@@ -7,7 +7,7 @@ void kingsman();
 void aila();
 void quote();
 void lyrics();
-
+void nz();
 int main(){
     cout<< "Hello World"<<endl;
     tine();
@@ -15,7 +15,7 @@ int main(){
     aila();
     quote();
     lyrics();
- 
+ 	nz();
     return 0;
 }
 
@@ -50,5 +50,7 @@ void quote(){
 	
 	cout << "Trust the timing of your life" << endl;
 }
-
-
+void nz(){
+	
+	cout << "69696969" << endl;
+}
