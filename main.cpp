@@ -9,6 +9,7 @@ void quote();
 void balala();
 void lyrics();
 void ganda();
+void therese();
 
 int main(){
     cout<< "Hello World"<<endl;
@@ -19,7 +20,7 @@ int main(){
     balala();
     lyrics();
     ganda();
- 
+ 	therese();
     return 0;
 }
 
@@ -28,6 +29,11 @@ void tine(){
 	cout << "Tine" << endl;
 	cout << "Kristine" << endl;
 	
+}
+
+void therese(){
+	cout << "Anne" << endl;
+	cout << "Arias" << endl;
 }
 
 void kingsman(){
