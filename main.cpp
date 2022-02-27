@@ -6,6 +6,7 @@ void tine();
 void kingsman();
 void aila();
 void quote();
+void balala();
 void lyrics();
 
 int main(){
@@ -14,6 +15,7 @@ int main(){
     kingsman();
     aila();
     quote();
+    balala();
     lyrics();
  
     return 0;
@@ -44,6 +46,11 @@ void aila(){
 	cout << "aila jera" << endl;
 	cout << "evangelista" << endl;
 	
+}
+
+void balala(){
+	cout << "cute" << endl;
+	cout << "ni mark balala" << endl;
 }
 
 void quote(){
