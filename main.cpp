@@ -12,7 +12,7 @@ void ganda();
 void therese();
 void samgyupsal();
 void milkT();
-
+void nz();
 int main(){
     cout<< "Hello World"<<endl;
     tine();
@@ -25,6 +25,7 @@ int main(){
  	therese();
  	samgyupsal();
  	milkT();
+ 	nz();
     return 0;
 }
 
@@ -88,3 +89,9 @@ void milkT(){
 	cout << "libre pa din ni tin" << endl;
 	cout << "hehe" << endl;
  }
+ 
+void nz(){
+	cout<< "sabi ni tin niloloko mo lang pala ko e" << endl;
+	cout<< "sabi ni tin bilisan mo babaril ka pa" << endl;
+	
+}
