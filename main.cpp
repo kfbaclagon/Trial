@@ -75,4 +75,5 @@ void quote(){
 
 void samyupsal(){
 	cout << "libre ni tin" <<endl;
+	cout << "hehe"<<endl;
 }
