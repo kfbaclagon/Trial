@@ -84,4 +84,5 @@ void samgyupsal(){
 
 void milkT(){
 	cout << "libre pa din ni tin" << endl;
-}
+	cout << "hehe" << endl;
+ }
