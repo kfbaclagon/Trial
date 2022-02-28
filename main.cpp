@@ -11,6 +11,7 @@ void lyrics();
 void ganda();
 void therese();
 void samgyupsal();
+void milkT();
 
 int main(){
     cout<< "Hello World"<<endl;
@@ -23,6 +24,7 @@ int main(){
     ganda();
  	therese();
  	samgyupsal();
+ 	milkT();
     return 0;
 }
 
@@ -78,4 +80,8 @@ void quote(){
 void samgyupsal(){
 	cout << "libre ni tin" <<endl;
 	cout << "hehe"<<endl;
+}
+
+void milkT(){
+	cout << "libre pa din ni tin" << endl;
 }
