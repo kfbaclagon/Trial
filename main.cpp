@@ -10,6 +10,7 @@ void balala();
 void lyrics();
 void ganda();
 void therese();
+void samgyupsal();
 
 int main(){
     cout<< "Hello World"<<endl;
@@ -21,6 +22,7 @@ int main(){
     lyrics();
     ganda();
  	therese();
+ 	samgyupsal();
     return 0;
 }
 
@@ -73,7 +75,7 @@ void quote(){
 }
 
 
-void samyupsal(){
+void samgyupsal(){
 	cout << "libre ni tin" <<endl;
 	cout << "hehe"<<endl;
 }
