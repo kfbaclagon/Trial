@@ -32,6 +32,7 @@ int main(){
 void tine(){
 	cout << "Tine" << endl;
 	cout << "Kristine" << endl;
+	cout << "Tinten" << endl;
 	
 }
 
